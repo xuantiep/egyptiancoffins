@@ -28,15 +28,15 @@ words_per_minute: 200
 
 baseurl: ""
 
-url: "https://egyptiancoffins.org"
+url: "https://lesspage.com"
 
 twitter_username: fitzwilliam_uk
 
 github_username: fitzwilliammuseum
 
-logo: https://egyptiancoffins.org/images/logos/logo.png
+logo: https://lesspage.com/images/logos/logo.png
 
-google_analytics: UA-3319190-12
+google_analytics: 
 
 
 lang: EN_GB
